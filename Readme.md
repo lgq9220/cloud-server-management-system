@@ -1,23 +1,6 @@
-项目介绍
-
-该项目使用Python提供的底层网络接口封装实现的一个应用程序, 使用Flask提供接口给前端使用
-
-该项目可用于 机房管理, 集群管理, 分布式服务器管理等. 实现了: 性能/磁盘实时监控, 流量安全检查, 一对多同时控制, 文件分发.
-
-博客/视频介绍/开发教程
 
 哔哩哔哩 bilibili: 暂时没有上传视频个人空间: https://space.bilibili.com/274407612
 
-
-使用的技术
-
-前端: HTML5、CSS3、JavaScript、Echarts、SocketIO
-
-后端: Python、Flask、底层网络接口 Socket, SocketIO
-
-程序架构
-
-我使用 Python 提供的底层网络接口实现了一个网络系统程序. Flask提供接口, 前端提供可视化web界面, 前端调用Flask接口, Flask调用网络系统程序
 
 环境搭建
 
